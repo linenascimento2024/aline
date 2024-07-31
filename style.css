@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khitan+Small+Script&display=swap');
+
+
+.dados {
+    text-align: center;
+
+}
+/* Formatar a imagem com  cantos arrendondados*/ 
+.perfil{
+    border-radius: 50%;
+}
+/* Formatar titulo com ID */
+#cv{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    font-size: 20px;
+} 
+.logo_olimpiada{
+    width: 210px;
+    border: 8px solid red;
+    border-radius: 20%;
+    margin-right: 50px          ;
+}
+/* Formatando o logo Paris */
+.logo_olimpiada
+  width:150px;
+  height: auto;
+  border-radius: 20%;
+  morgin-right: 50px
+}
+
+.titulo{
+    background-color: chocolate;
+}
+.box{
+    width: 300px;
+    /* O alimento da <div> */
+    display: inlini-block;
+    /* mudando a margem direita */
+    margin-rigth: 150px;
+    /* colocando borda na <div> */
+    borde0r: 10px solid blueviolet
+    
+}
+
+
